@@ -35,6 +35,7 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 
 
+'123
 Private Sub Form_KeyDown(KeyCode As Integer, Shift As Integer)
 If KeyCode = 123 Then               '«öF12µ²§ô
     Close #1
